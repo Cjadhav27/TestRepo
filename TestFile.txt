@@ -6,3 +6,5 @@ idea-"Made some changes on newly created branch idea"
 idea change2- "New change in File1 for master branch"
 
 tag v1.0 - "tag v1.0:Stable version 1.0 is released"
+Change3 - "Didn't Commit the change3"
+Change4 - "Task Completed"
